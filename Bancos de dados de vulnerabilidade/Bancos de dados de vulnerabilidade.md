@@ -1,5 +1,5 @@
 # NVD (banco de dados nacional de vulnerabilidades)
-https://nvd.nist.gov/vuln
+https://nvd.nist.gov/general/news/change-timeline
 
 # Exploit-DB
 https://www.exploit-db.com/
