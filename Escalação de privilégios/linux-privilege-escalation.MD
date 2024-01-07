@@ -94,7 +94,7 @@ $ searchsploit Linux Kernel <version>
 check privilege escalation script outputs
 ```
 
-### Installed software locations
+### Locais de software instalado
 
 ```text
 /usr/local/
